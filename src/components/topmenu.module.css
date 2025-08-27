@@ -10,7 +10,7 @@
 .nav {
   
   margin: 0 auto;
- 
+  padding: 0.25rem 0.25rem;
   display: flex;
   justify-content: flex-end;
   align-items: center;
